@@ -1,0 +1,23 @@
+{
+  "name": "CompuNubeLAb_SistemasDistribuidores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jrgil20/CompuNubeLAb_SistemasDistribuidores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jrgil20/CompuNubeLAb_SistemasDistribuidores/issues"
+  },
+  "homepage": "https://github.com/Jrgil20/CompuNubeLAb_SistemasDistribuidores#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
